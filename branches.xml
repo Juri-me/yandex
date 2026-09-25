@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<companies xmlns="http://download.yandex.com/sprav/yandex_sprav.xsd">
+   <?xml version="1.0" encoding="UTF-8"?>
+   <companies xmlns="http://download.yandex.com/sprav/yandex_sprav.xsd">
   <company>
     <company-id>posle-shkoly-arkhangelsk</company-id>
     <name lang="ru">После Школы</name>
