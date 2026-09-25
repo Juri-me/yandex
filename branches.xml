@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+  <company>
+    <company-id>posle-shkoly-arkhangelsk</company-id>
+    <name lang="ru">После Школы</name>
+    <shortname lang="ru">После Школы</shortname>
+    <name-other lang="ru">Филиал Архангельск</name-other>
+    <address lang="ru">Архангельск, ул. Чумбарова-Лучинского, 60</address>
+    <country lang="ru">Россия</country>
+    <address-add lang="ru">Кабинет 1</address-add>
+    <phone>
+      <number>+7 (818) 200-30-45</number>
+      <type>phone</type>
+    </phone>
+    <email>posle-shkoly@example.ru</email>
+    <url>https://posle-shkoly.ru</url>
+    <working-time lang="ru">пн-пт 15:00-20:00, сб 10:00-18:00</working-time>
+    <rubric-id>184106246</rubric-id>
+    <actualization-date>25.09.2026</actualization-date>
+    <coordinates>
+      <lon>40.5351</lon>
+      <lat>64.5401</lat>
+    </coordinates>
+  </company>
+  <company>
+    <company-id>posle-shkoly-severodvinsk</company-id>
+    <name lang="ru">После Школы</name>
+    <shortname lang="ru">После Школы</shortname>
+    <name-other lang="ru">Филиал Северодвинск</name-other>
+    <address lang="ru">Северодвинск, ул. Карла Маркса, 45</address>
+    <country lang="ru">Россия</country>
+    <address-add lang="ru">Кабинет 2</address-add>
+    <phone>
+      <number>+7 (818) 250-45-67</number>
+      <type>phone</type>
+    </phone>
+    <email>posle-shkoly@example.ru</email>
+    <url>https://posle-shkoly.ru</url>
+    <working-time lang="ru">пн-пт 15:00-20:00, сб 10:00-18:00</working-time>
+    <rubric-id>184106246</rubric-id>
+    <actualization-date>25.09.2026</actualization-date>
+    <coordinates>
+      <lon>44.2167</lon>
+      <lat>64.5833</lat>
+    </coordinates>
+  </company>
+</companies>
