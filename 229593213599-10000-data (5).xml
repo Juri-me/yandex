@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<companies>
+    <company>
+        <name lang="ru">После школы</name>
+        <address lang="ru">Северо-Западный федеральный округ, Архангельская область, городской округ Архангельск, Архангельск, улица Гайдара, 57, корп. 1</address>
+        <address-add lang="ru">этаж 3, кабинет 309</address-add>
+        <coordinates>
+            <lat>64.550878</lat>
+            <lon>40.546413</lon>
+        </coordinates>
+        <working-time>ежедневно 8:00-21:00</working-time>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 601-24-14</number>
+            <info>Основной номер</info>
+        </phone>
+        <url>https://www.после-школы.рф/?utm_campaign=profile&amp;utm_medium=organic_geo&amp;utm_source=yandex_maps</url>
+        <add-url>https://max.ru/u/f9LHodD0cOLi9ayXQMAVCOV8mVlT79MfVvg_v4A-z3pTC8y4x13sDPF9fwE</add-url>
+        <add-url>https://t.me/posle_shkoly_29</add-url>
+        <add-url>https://vk.ru/posleshkoly_arh</add-url>
+        <email>posle-shkoly@mail.ru</email>
+        <rubric-id>184107204</rubric-id>
+        <rubric-id>184106224</rubric-id>
+        <rubric-id>184106162</rubric-id>
+        <feature-boolean name="wi_fi" value="1"/>
+        <feature-boolean name="gift_certificate" value="1"/>
+        <feature-enum-multiple name="payment_method" value="cash"/>
+        <feature-enum-multiple name="payment_method" value="payment_card"/>
+        <feature-enum-multiple name="payment_method" value="electronic_money"/>
+        <feature-enum-multiple name="payment_method" value="wire_transfer"/>
+        <feature-enum-multiple name="payment_method" value="billing_to_mobile_phones"/>
+        <feature-enum-multiple name="payment_method" value="online_payment"/>
+        <feature-boolean name="payment_by_credit_card" value="1"/>
+        <feature-boolean name="parking_disabled" value="1"/>
+        <feature-enum-multiple name="classes for children" value="arts and crafts"/>
+        <feature-enum-multiple name="classes for children" value="pictorial art"/>
+        <feature-enum-multiple name="classes for children" value="music"/>
+        <feature-enum-multiple name="classes for children" value="singing"/>
+        <feature-enum-multiple name="classes for children" value="mathematics"/>
+        <feature-enum-multiple name="classes for children" value="dancing"/>
+        <feature-enum-multiple name="classes for children" value="theatrical creativity"/>
+        <feature-enum-multiple name="classes for children" value="circus art"/>
+        <feature-enum-multiple name="classes for children" value="sculpting"/>
+        <feature-enum-multiple name="classes for children" value="drawing_with_sand"/>
+        <feature-enum-single name="wheelchair_access" value="unavailable"/>
+        <feature-boolean name="extended_day_group" value="0"/>
+        <feature-boolean name="automatic_door" value="0"/>
+        <feature-boolean name="toilet_for_disabled" value="0"/>
+        <feature-enum-multiple name="promotions" value="discounts"/>
+        <feature-enum-multiple name="promotions" value="promotions"/>
+        <feature-enum-multiple name="promotions" value="special_offers"/>
+        <feature-enum-multiple name="promotions" value="bonuses"/>
+        <feature-enum-multiple name="promotions" value="gifts"/>
+        <feature-boolean name="call_button" value="0"/>
+        <feature-boolean name="elevator_wheelchair_accessible" value="0"/>
+        <feature-boolean name="ramp" value="0"/>
+        <feature-enum-single name="wheelchair_accessible_vocabulary" value="wheelchair_accessible_a"/>
+        <feature-boolean name="Possible_with_dog" value="0"/>
+        <feature-boolean name="tactile_tiles" value="0"/>
+        <feature-boolean name="preliminary_registration" value="1"/>
+        <feature-boolean name="kaspi_red" value="0"/>
+        <feature-boolean name="write_learning" value="0"/>
+        <feature-boolean name="montessori" value="0"/>
+        <feature-boolean name="emotional_discharge_room" value="0"/>
+        <feature-boolean name="mental arithmetic" value="0"/>
+        <actualization-date>25.09.2026</actualization-date>
+        <company-id>75100374737</company-id>
+    </company>
+    <company>
+        <name lang="ru">После школы</name>
+        <address lang="ru">Северо-Западный федеральный округ, Архангельская область, городской округ Архангельск, Архангельск, Поморская улица, 9</address>
+        <coordinates>
+            <lat>64.535754</lat>
+            <lon>40.525437</lon>
+        </coordinates>
+        <working-time>ежедневно 11:00-21:00</working-time>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-40-55</number>
+            <info>Запасной номер</info>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-49-40</number>
+            <info>Основной номер</info>
+        </phone>
+        <url>https://www.после-школы.рф/</url>
+        <add-url>https://t.me/posle_shkoly_29</add-url>
+        <email>posle-shkoly@mail.ru</email>
+        <rubric-id>184107204</rubric-id>
+        <rubric-id>184106224</rubric-id>
+        <rubric-id>184106162</rubric-id>
+        <feature-boolean name="preliminary_registration" value="1"/>
+        <actualization-date>25.09.2026</actualization-date>
+        <company-id>30635941689</company-id>
+    </company>
+    <company>
+        <name lang="ru">После школы</name>
+        <address lang="ru">Северо-Западный федеральный округ, Архангельская область, городской округ Архангельск, Архангельск, Московский проспект, 43</address>
+        <coordinates>
+            <lat>64.53236287</lat>
+            <lon>40.61015945</lon>
+        </coordinates>
+        <working-time>ежедневно 11:00-21:00</working-time>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-49-40</number>
+            <info>Основной номер</info>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-40-55</number>
+            <info>Запасной номер</info>
+        </phone>
+        <url>http://после-школы.рф/</url>
+        <add-url>https://posleshkoly.2gis.biz/</add-url>
+        <email>posle-shkoly@mail.ru</email>
+        <rubric-id>184106246</rubric-id>
+        <rubric-id>184106162</rubric-id>
+        <rubric-id>184107204</rubric-id>
+        <actualization-date>25.09.2026</actualization-date>
+        <company-id>20795219358</company-id>
+    </company>
+    <company>
+        <name lang="ru">После школы</name>
+        <address lang="ru">Северо-Западный федеральный округ, Архангельская область, муниципальный округ Северодвинск, Северодвинск, улица Ломоносова, 75</address>
+        <coordinates>
+            <lat>64.552293</lat>
+            <lon>39.796322</lon>
+        </coordinates>
+        <working-time>ежедневно 11:00-21:00</working-time>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-40-55</number>
+            <info>Запасной номер</info>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-49-40</number>
+            <info>Основной номер</info>
+        </phone>
+        <url>http://после-школы.рф/</url>
+        <add-url>https://vk.ru/posleshkoly_arh</add-url>
+        <add-url>https://t.me/posle_shkoly_29</add-url>
+        <add-url>https://max.ru/u/f9LHodD0cOLi9ayXQMAVCOV8mVlT79MfVvg_v4A-z3pTC8y4x13sDPF9fwE</add-url>
+        <email>posle-shkoly@mail.ru</email>
+        <rubric-id>184107204</rubric-id>
+        <rubric-id>184106224</rubric-id>
+        <rubric-id>184106162</rubric-id>
+        <feature-boolean name="tactile_tiles" value="0"/>
+        <feature-boolean name="emotional_discharge_room" value="0"/>
+        <feature-boolean name="ramp" value="0"/>
+        <feature-boolean name="elevator_wheelchair_accessible" value="0"/>
+        <feature-enum-multiple name="promotions" value="discounts"/>
+        <feature-enum-multiple name="promotions" value="promotions"/>
+        <feature-enum-multiple name="promotions" value="special_offers"/>
+        <feature-enum-multiple name="promotions" value="bonuses"/>
+        <feature-enum-multiple name="promotions" value="gifts"/>
+        <feature-boolean name="Possible_with_dog" value="0"/>
+        <feature-enum-multiple name="payment_method" value="cash"/>
+        <feature-enum-multiple name="payment_method" value="payment_card"/>
+        <feature-enum-multiple name="payment_method" value="electronic_money"/>
+        <feature-enum-multiple name="payment_method" value="wire_transfer"/>
+        <feature-enum-multiple name="payment_method" value="billing_to_mobile_phones"/>
+        <feature-enum-multiple name="classes for children" value="arts and crafts"/>
+        <feature-enum-multiple name="classes for children" value="pictorial art"/>
+        <feature-enum-multiple name="classes for children" value="music"/>
+        <feature-enum-multiple name="classes for children" value="singing"/>
+        <feature-enum-multiple name="classes for children" value="mathematics"/>
+        <feature-enum-multiple name="classes for children" value="theatrical creativity"/>
+        <feature-enum-multiple name="classes for children" value="circus art"/>
+        <feature-enum-multiple name="classes for children" value="drawing_with_sand"/>
+        <feature-boolean name="extended_day_group" value="0"/>
+        <feature-boolean name="automatic_door" value="0"/>
+        <feature-boolean name="toilet_for_disabled" value="0"/>
+        <feature-enum-single name="wheelchair_accessible_vocabulary" value="wheelchair_accessible_a"/>
+        <feature-boolean name="parking_disabled" value="0"/>
+        <feature-boolean name="payment_by_credit_card" value="1"/>
+        <feature-boolean name="wi_fi" value="1"/>
+        <feature-enum-single name="wheelchair_access" value="full_access"/>
+        <feature-boolean name="call_button" value="0"/>
+        <feature-boolean name="gift_certificate" value="1"/>
+        <feature-boolean name="preliminary_registration" value="1"/>
+        <actualization-date>25.09.2026</actualization-date>
+        <company-id>148322945826</company-id>
+    </company>
+    <company>
+        <is-online>true</is-online>
+        <name lang="ru">После школы</name>
+        <address lang="ru">Северо-Западный федеральный округ, Архангельская область, городской округ Архангельск, Архангельск, Московский проспект, 43</address>
+        <address-add lang="ru">Вход рядом с Архипенным, направо, этаж цокольный</address-add>
+        <coordinates>
+            <lat>64.532467</lat>
+            <lon>40.610292</lon>
+        </coordinates>
+        <working-time>ежедневно 11:00-21:00</working-time>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-40-55</number>
+            <info>Запасной номер</info>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-49-40</number>
+            <info>Основной номер</info>
+        </phone>
+        <url>http://после-школы.рф/</url>
+        <add-url>https://vk.ru/posleshkoly_arh</add-url>
+        <add-url>https://t.me/posle_shkoly_29</add-url>
+        <add-url>https://max.ru/u/f9LHodD0cOLi9ayXQMAVCOV8mVlT79MfVvg_v4A-z3pTC8y4x13sDPF9fwE</add-url>
+        <email>posle-shkoly@mail.ru</email>
+        <rubric-id>184107204</rubric-id>
+        <rubric-id>184106224</rubric-id>
+        <rubric-id>184106162</rubric-id>
+        <feature-enum-multiple name="promotions" value="discounts"/>
+        <feature-enum-multiple name="promotions" value="promotions"/>
+        <feature-enum-multiple name="promotions" value="special_offers"/>
+        <feature-enum-multiple name="promotions" value="bonuses"/>
+        <feature-enum-multiple name="promotions" value="gifts"/>
+        <feature-enum-multiple name="classes for children" value="theatrical creativity"/>
+        <feature-boolean name="wi_fi" value="1"/>
+        <feature-boolean name="preliminary_registration" value="1"/>
+        <feature-boolean name="payment_by_credit_card" value="1"/>
+        <feature-boolean name="gift_certificate" value="1"/>
+        <feature-enum-multiple name="payment_method" value="cash"/>
+        <feature-enum-multiple name="payment_method" value="payment_card"/>
+        <feature-enum-multiple name="payment_method" value="electronic_money"/>
+        <feature-enum-multiple name="payment_method" value="wire_transfer"/>
+        <feature-enum-multiple name="payment_method" value="billing_to_mobile_phones"/>
+        <feature-boolean name="tactile_tiles" value="0"/>
+        <feature-boolean name="mom_and_baby" value="0"/>
+        <feature-boolean name="early_development_group" value="0"/>
+        <feature-boolean name="kaspi_red" value="0"/>
+        <feature-boolean name="emotional_discharge_room" value="0"/>
+        <feature-enum-single name="wheelchair_accessible_vocabulary" value="wheelchair_accessible_a"/>
+        <feature-boolean name="neuropsychologist" value="0"/>
+        <feature-boolean name="write_learning" value="0"/>
+        <feature-boolean name="montessori" value="0"/>
+        <feature-boolean name="ramp" value="0"/>
+        <feature-boolean name="elevator_wheelchair_accessible" value="0"/>
+        <feature-boolean name="call_button" value="0"/>
+        <feature-boolean name="Possible_with_dog" value="0"/>
+        <feature-boolean name="extended_day_group" value="0"/>
+        <feature-boolean name="foregn_language_children" value="1"/>
+        <feature-boolean name="mental arithmetic" value="0"/>
+        <feature-boolean name="toilet_for_disabled" value="0"/>
+        <feature-boolean name="family_classes" value="0"/>
+        <feature-boolean name="parking_disabled" value="0"/>
+        <feature-boolean name="speech_therapist" value="0"/>
+        <feature-boolean name="automatic_door" value="0"/>
+        <feature-enum-single name="wheelchair_access" value="full_access"/>
+        <feature-boolean name="sensory_integration" value="0"/>
+        <actualization-date>25.09.2026</actualization-date>
+        <company-id>212449732962</company-id>
+    </company>
+    <company>
+        <name lang="ru">После школы</name>
+        <address lang="ru">Северо-Западный федеральный округ, Архангельская область, городской округ Архангельск, Архангельск, улица Тимме, 4, корп. 3</address>
+        <address-add lang="ru">этаж 3</address-add>
+        <coordinates>
+            <lat>64.541998</lat>
+            <lon>40.570066</lon>
+        </coordinates>
+        <working-time>ежедневно 12:00-21:00</working-time>
+        <phone>
+            <type>phone</type>
+            <number>+7 (995) 560-49-40</number>
+        </phone>
+        <url>http://после-школы.рф/</url>
+        <add-url>https://t.me/posle_shkoly_29</add-url>
+        <email>posle-shkoly@mail.ru</email>
+        <rubric-id>184107204</rubric-id>
+        <rubric-id>184106224</rubric-id>
+        <feature-boolean name="preliminary_registration" value="1"/>
+        <actualization-date>25.09.2026</actualization-date>
+        <company-id>62018488454</company-id>
+    </company>
+</companies>
